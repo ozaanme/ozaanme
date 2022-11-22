@@ -1,10 +1,9 @@
 Hi 👋 My name is Ozan Mert Erol
 ===============================
 
-I've been learning machine learning and computer vision for almost 2 years. I started my machine learning journey with fast ai.
-
-* 🌍  I'm based in Ankara, Turkey
+* 🌍  I'm based in Ankara, Turkey
 * ✉️  You can contact me at [ozaan.me@outlook.com](mailto:ozaan.me@outlook.com)
+* 📄 You can check my [website](https://ozaanme.github.io/)
 
 ### Skills
 
