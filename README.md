@@ -1,9 +1,7 @@
-Hi 👋 My name is Ozan Mert Erol
+Hi 👋 I'm Ozan Mert Erol
 ===============================
 
-* 🌍  I'm based in Ankara, Turkey
 * ✉️  You can contact me at [ozaan.me@outlook.com](mailto:ozaan.me@outlook.com)
-* 📄 You can check my [website](https://ozaanme.github.io/)
 
 ### Skills
 
