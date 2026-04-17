@@ -1,4 +1,3 @@
-Hi 👋 I'm Ozan Mert Erol
 ===============================
 
 * ✉️  You can contact me at [ozaan.me@outlook.com](mailto:ozaan.me@outlook.com)
